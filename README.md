@@ -39,8 +39,8 @@
 | Years       | Institution                                                    | Qualification                        | Score / CPI          |
 |-------------|----------------------------------------------------------------|--------------------------------------|----------------------|
 | 2023 – 2027 | Motilal Nehru National Institute of Technology, Allahabad      | B.Tech in Mechanical Engineering     | 8.12 (till 4th Sem)  |
-| 2020 – 2022 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class XII                       | 95.8%                |
-| 2018 – 2020 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class X                         | 95.6%                |
+| 2022 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class XII                       | 95.8%                |
+| 2020 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class X                         | 95.6%                |
 
 ---
 
@@ -102,5 +102,5 @@
 ---
 
 <p align="center">
-  📫 Reach me at: <b>abahugy454@gmail.com</b>
+  📫 Reach me at: <b>abhaygy454@gmail.com</b>
 </p>  // just change the projects in this
