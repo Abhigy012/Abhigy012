@@ -2,17 +2,8 @@
   <img src="https://github.com/Abhigy012.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%;" />
   <h1 align="center">Abhay Goyal</h1>
   <p align="center">
-    <a href="mailto:abhaygoyal1028@gmail.com">
-      <img src="https://img.shields.io/badge/✉️-abhaygoyal1028@gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
-    </a>
-    <a href="tel:+918859345000">
-      <img src="https://img.shields.io/badge/📞-+91%208859345000-green?style=flat-square" alt="Phone" />
-    </a>
-    <img src="https://img.shields.io/badge/Roll%20No.-20236003-orange?style=flat-square" alt="Roll No." />
-    <img src="https://img.shields.io/badge/🎓-BTech%20(Mech.)-blueviolet?style=flat-square" alt="Degree" />
-  </p>
-  <p align="center">
     <img src="https://img.shields.io/badge/Motilal_Nehru_NIT_Allahabad-2023--2027-blue?style=flat-square&logo=microsoftacademic" alt="College" />
+    <img src="https://img.shields.io/badge/B.Tech%20(Mech.)-8.12/10-green?style=flat-square" alt="Degree & CPI" />
   </p>
 </p>
 
@@ -22,7 +13,6 @@
 - **Name:** Abhay Goyal  
 - **Course:** B.Tech in Mechanical Engineering (CPI: 8.12/10)  
 - **Institute:** Motilal Nehru National Institute of Technology, Allahabad  
-- **Email:** abhaygoyal1028@gmail.com | abhay.20236003@mnnit.ac.in  
 - **GitHub:** [@Abhigy012](https://github.com/Abhigy012)  
 - **Location:** Prayagraj, India  
 
@@ -46,11 +36,11 @@
 
 ## 📚 Education
 
-| Years       | Institution                                          | Qualification                        | Score / CPI |
-|-------------|------------------------------------------------------|--------------------------------------|-------------|
-| 2023 – 2027 | Motilal Nehru National Institute of Technology, Allahabad | B.Tech in Mechanical Engineering     | 8.12 (till 4th Sem) |
-| 2020 – 2022 | Holy Child School, Rudrapur, Uttarakhand             | CBSE Class XII                       | 95.8%       |
-| 2018 – 2020 | Holy Child School, Rudrapur, Uttarakhand             | CBSE Class X                         | 95.6%       |
+| Years       | Institution                                                    | Qualification                        | Score / CPI          |
+|-------------|----------------------------------------------------------------|--------------------------------------|----------------------|
+| 2023 – 2027 | Motilal Nehru National Institute of Technology, Allahabad      | B.Tech in Mechanical Engineering     | 8.12 (till 4th Sem)  |
+| 2020 – 2022 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class XII                       | 95.8%                |
+| 2018 – 2020 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class X                         | 95.6%                |
 
 ---
 
@@ -58,17 +48,17 @@
 
 ### 🔗 [MediConnect](https://medi-connect-beryl.vercel.app)  
 > **Doctor Appointment Booking System** • June 2025  
-- Secure login/registration for Patients, Doctors & Admin using **JWT** and **Role–Based Access Control**  
-- Real–time availability tracking, appointment scheduling & status updates  
-- Advanced search by specialization, experience, rating & location  
+- Secure login/registration for patients, doctors & admin using **JWT** and role-based access  
+- Real-time availability tracking, appointment scheduling & status updates  
+- Specialized search by specialization, experience, rating & location  
 - **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Razorpay Integration  
 - 📂 [Source Code](https://github.com/Abhigy012/MediConnect)
 
-### 📝 Full‑Stack Blog Platform  
+### 📝 Full-Stack Blog Platform  
 > January 2025  
 - React + Appwrite blog where 100+ users can create, edit & publish posts  
-- Optimized UI with **TailwindCSS**, integrated Appwrite (Auth, DB, Storage)  
-- Implemented code‑splitting & lazy‑loading—20% faster page loads  
+- Responsive UI with **TailwindCSS**, integrated Appwrite (Auth, DB, Storage)  
+- Code-splitting & lazy-loading for 20% faster page loads  
 - **Tech:** React.js, TailwindCSS, Appwrite, Git  
 - 📂 [Source Code](https://github.com/Abhigy012/YourBlogRepo)
 
@@ -80,8 +70,8 @@
   Coordinated logistics for 10+ national speakers; led a team of 5 volunteers.  
 - **Public Relations Member**, Culrav-Avishkar ’24  
   Outreach to 50+ sponsors—secured partnerships with 2 companies.  
-- **Networking Team**, E‑Cell MNNIT  
-  Pitched startup ideas; iterated business model from mentor feedback.
+- **Networking Team**, E-Cell MNNIT  
+  Pitched startup ideas and iterated business models from mentor feedback.
 
 ---
 
@@ -97,7 +87,7 @@
 
 - **Deep Dive in C++** – Beginner to Advanced  
 - **Striver’s A2Z DSA Sheet** – Ongoing  
-- **Learn MERN Stack** – Self‑Paced Projects & Deployments  
+- **Learn MERN Stack** – Self-Paced Projects & Deployments  
 
 ---
 
@@ -105,12 +95,11 @@
 <summary>🌱 Currently Learning & Building</summary>
 - Advanced **Data Structures & Algorithms** (Sliding Window, Heaps, Graphs)  
 - **Node.js** backend with **Express**, **MongoDB** & **JWT**  
-- Deploying full‑stack apps on **Vercel**, **Heroku**, **Render**  
+- Deploying full-stack apps on **Vercel**, **Heroku**, **Render**  
 </details>
 
 ---
 
 <p align="center">
-  ⭐️ If you like my work, give me a star on GitHub!  
-  📫 Feel free to reach out: abhaygoyal1028@gmail.com  
+  📫 Reach me at: <b>abhaygy454@gmail.com</b>
 </p>
