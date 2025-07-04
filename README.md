@@ -51,11 +51,6 @@ Complete blog management system with secure authentication and cloud storage
 </p>
 </div>
 
-<div align="center">
-<h4>Annual Badges</h4>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhigy012&theme=dark&filter=annual" alt="Annual Badges" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats
