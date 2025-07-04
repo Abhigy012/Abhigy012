@@ -1,21 +1,17 @@
 # Hi, I'm Abhay Goyal 👋
-
 **Full-Stack Developer | B.Tech at MNNIT Allahabad**
-
 📍 Prayagraj, India | 💼 Open to internships | 📧 abhaygoyal1028@gmail.com
 
 ---
 
 ## 🚀 About Me
-
 - 🔭 Building **full-stack web applications** and solving **competitive programming** problems
-- 🌱 Currently learning **advanced DSA** 
+- 🌱 Currently learning **advanced DSA** and **system design**
 - 💡 Passionate about **web development** and **automation**
 
 ---
 
 ## 🛠️ Tech Stack
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,7 +40,6 @@ Complete blog management system with secure authentication and cloud storage
 ---
 
 ## 🏆 LeetCode Profile
-
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Abhigy012?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
 </div>
@@ -52,15 +47,18 @@ Complete blog management system with secure authentication and cloud storage
 <div align="center"> 
 <h3 align="center">LeetCode Badges</h3>  
 <p align="center">
-  <a href="https://leetcode.com/Abhigy012/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" height="150" width="150" /></a>
-  <a href="https://leetcode.com/Abhigy012/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="50 Days Badge 2025" height="150" width="150" /></a>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhigy012&theme=dark&animated=true" alt="LeetCode Badges" />
 </p>
+</div>
+
+<div align="center">
+<h4>Annual Badges</h4>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhigy012&theme=dark&filter=annual" alt="Annual Badges" />
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhigy012&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigy012&theme=dark&hide_border=false" alt="GitHub Streak" />
@@ -69,7 +67,6 @@ Complete blog management system with secure authentication and cloud storage
 ---
 
 ## 🤝 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-goyal)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhigy012)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaygoyal1028@gmail.com)
