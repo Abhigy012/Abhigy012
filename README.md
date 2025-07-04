@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🔭 Building **full-stack web applications** and solving **competitive programming** problems
-- 🌱 Currently learning **advanced DSA** and **system design**
+- 🌱 Currently learning **advanced DSA** 
 - 💡 Passionate about **web development** and **automation**
 
 ---
