@@ -49,8 +49,14 @@ Complete blog management system with secure authentication and cloud storage
   <img src="https://leetcard.jacoblin.cool/Abhigy012?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
 </div>
 
-<div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhigy012&theme=dark" alt="LeetCode Badges" />
+<div align="center"> 
+<h3 align="center">LeetCode Badges</h3>  
+<p align="center">
+  <a href="https://leetcode.com/Abhigy012/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="February Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/Abhigy012/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="March Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/Abhigy012/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Daily Challenge Badge" height="150" width="150" /></a>
+  <a href="https://leetcode.com/Abhigy012/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="Streak Badge" height="150" width="150" /></a>
+</p>
 </div>
 
 ---
