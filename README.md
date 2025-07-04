@@ -1,106 +1,65 @@
-<p align="center">
-  <img src="https://github.com/Abhigy012.png" alt="Profile Picture" width="150" height="150" style="border-radius:50%;" />
-  <h1 align="center">Abhay Goyal</h1>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Motilal_Nehru_NIT_Allahabad-2023--2027-blue?style=flat-square&logo=microsoftacademic" alt="College" />
-    <img src="https://img.shields.io/badge/B.Tech%20(Mech.)-8.12/10-green?style=flat-square" alt="Degree & CPI" />
-  </p>
-</p>
+# Hi, I'm Abhay Goyal 👋
+
+**Full-Stack Developer | B.Tech at MNNIT Allahabad**
+
+📍 Prayagraj, India | 💼 Open to internships | 📧 abhaygoyal1028@gmail.com
 
 ---
 
-## 👨‍🎓 About Me
-- **Name:** Abhay Goyal  
-- **Course:** B.Tech in Mechanical Engineering (CPI: 8.12/10)  
-- **Institute:** Motilal Nehru National Institute of Technology, Allahabad  
-- **GitHub:** [@Abhigy012](https://github.com/Abhigy012)  
-- **Location:** Prayagraj, India  
+## 🚀 About Me
+
+- 🔭 Building **full-stack web applications** and solving **competitive programming** problems
+- 🌱 Currently learning **advanced DSA** and **system design**
+- 💡 Passionate about **web development** and **automation**
 
 ---
 
-## 💻 Tech Stack & Tools  
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/bcrypt-4285F4?style=flat-square&logo=bcrypt&logoColor=white" alt="bcrypt" />
-  <img src="https://img.shields.io/badge/cookie--parser-DB5A1F?style=flat-square" alt="cookie-parser" />
-  <img src="https://img.shields.io/badge/crypto-0E76A8?style=flat-square" alt="crypto" />
-  <img src="https://img.shields.io/badge/Cloudinary-315CF5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-</p>
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📚 Education
+## 🎯 Featured Projects
 
-| Years       | Institution                                                    | Qualification                        | Score / CPI          |
-|-------------|----------------------------------------------------------------|--------------------------------------|----------------------|
-| 2023 – 2027 | Motilal Nehru National Institute of Technology, Allahabad      | B.Tech in Mechanical Engineering     | 8.12 (till 4th Sem)  |
-| 2022 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class XII                       | 95.8%                |
-| 2020 | Holy Child School, Rudrapur, Uttarakhand                       | CBSE Class X                         | 95.6%                |
+### 📝 [WriteHub](https://write-hub-pi.vercel.app/) - Full-Stack Blog Platform
+Complete blog management system with secure authentication and cloud storage
+- **JWT-based authentication** with protected routes
+- **Responsive design** with dark mode
+- **Cloudinary integration** for image management
+- **Tech:** React.js, Node.js, Express.js, MongoDB, JWT
 
----
+[🔗 Live Demo](https://write-hub-pi.vercel.app/) | [📁 Code](https://github.com/Abhigy012/WriteHub)
 
-## 🚀 Personal Projects
-
-### 🔗 [WriteHub](https://write-hub-pi.vercel.app/)
-> **Full-Stack Blog Platform** • July 2025  
-- Complete blog management system with MongoDB and RESTful APIs  
-- Secure JWT-based authentication with protected routes and persistent sessions  
-- Mobile-optimized responsive UI using Tailwind CSS with dark mode  
-- Image upload and storage with Cloudinary; deployed via Vercel/Render  
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Cloudinary  
-- 📂 [Source Code](https://github.com/Abhigy012/WriteHub)
-
-### 🔗 [MediConnect](https://medi-connect-beryl.vercel.app)  
-> **Doctor Appointment Booking System** • June 2025  
-- Secure login/registration for patients, doctors & admin using **JWT** and role-based access  
-- Real-time availability tracking, appointment scheduling & status updates  
-- Specialized search by specialization, experience, rating & location  
-- **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Razorpay Integration  
-- 📂 [Source Code](https://github.com/Abhigy012/MediConnect)
+### 🤖 Doodle Bot - Autonomous Drawing Robot
+**🏆 1st Place Winner** at Robomania Competition
+- **Computer vision** with OpenCV for shape detection
+- **Hardware integration** with Arduino and sensors
+- **Tech:** Python, OpenCV, Arduino
 
 ---
 
-## 🎯 Positions of Responsibility
+## 📊 GitHub Stats
 
-- **Hospitality Member**, gnoTalks ’24  
-  Coordinated logistics for 10+ national speakers; led a team of 5 volunteers.  
-- **Public Relations Member**, Culrav-Avishkar ’24  
-  Outreach to 50+ sponsors—secured partnerships with 2 companies.  
-- **Networking Team**, E-Cell MNNIT  
-  Pitched startup ideas and iterated business models from mentor feedback.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhigy012&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigy012&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🤝 Connect
 
-- 🥇 **1st Place**, Robomania – Autonomous Doodle Bot Competition (OpenCV & Hardware) — Nov 2024  
-- 🥇 **Winner**, Triathlon Mock Placement Event, MNNIT — Mar 2023  
-- 🥈 **2nd Place**, Blueprint CAD Design Competition, MNNIT — Mar 2023  
-
----
-
-## 📜 Certifications & Courses
-
-- **Deep Dive in C++** – Beginner to Advanced  
-- **Striver’s A2Z DSA Sheet** – Ongoing  
-- **Learn MERN Stack** – Self-Paced Projects & Deployments  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-goyal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhigy012)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaygoyal1028@gmail.com)
 
 ---
 
-<details>
-<summary>🌱 Currently Learning & Building</summary>
-- Advanced **Data Structures & Algorithms** (Sliding Window, Heaps, Graphs)  
-- **Node.js** backend with **Express**, **MongoDB** & **JWT**  
-- Deploying full-stack apps on **Vercel**, **Heroku**, **Render**  
-</details>
-
----
-
-<p align="center">
-  📫 Reach me at: <b>abhaygy454@gmail.com</b>
-</p>  // just change the projects in this
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhigy012&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
