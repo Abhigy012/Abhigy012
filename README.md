@@ -22,6 +22,16 @@
 
 ## 🎯 Featured Projects
 
+### 🥗 NutriTrack (August 2025)
+AI-Powered Health & Nutrition Platform with personalized dietary analysis and medical report summarization
+- **Automated health report processing** using Google Gemini AI
+- **Personalized nutrition recommendations** based on user data
+- **Secure authentication** with JWT
+- **Image & file management** via Cloudinary
+- **Tech:** React.js, Node.js, Express.js, MongoDB, Google Gemini AI, JWT, Cloudinary, Vite
+
+[🔗 Live Demo](https://nutri-track-mocha.vercel.app/) | [📁 Code](https://github.com/Abhigy012/NutriTrack)
+
 ### 📝 [WriteHub](https://write-hub-pi.vercel.app/) - Full-Stack Blog Platform
 Complete blog management system with secure authentication and cloud storage
 - **JWT-based authentication** with protected routes
@@ -30,12 +40,6 @@ Complete blog management system with secure authentication and cloud storage
 - **Tech:** React.js, Node.js, Express.js, MongoDB, JWT
 
 [🔗 Live Demo](https://write-hub-pi.vercel.app/) | [📁 Code](https://github.com/Abhigy012/WriteHub)
-
-### 🤖 Doodle Bot - Autonomous Drawing Robot
-**🏆 1st Place Winner** at Robomania Competition
-- **Computer vision** with OpenCV for shape detection
-- **Hardware integration** with Arduino and sensors
-- **Tech:** Python, OpenCV, Arduino
 
 ---
 
